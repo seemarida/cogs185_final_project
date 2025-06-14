@@ -1,0 +1,21 @@
+Training for 500 epochs...
+[0m 47s (100 20%) 1.8770]
+Whe trump and pirting jesplican sunverists show
+ecentist dably not to laso as relick kad yerary of tra 
+
+[1m 35s (200 40%) 1.6952]
+Wher look from remays forced by rolled for on runch of interests in defendy child couple meated wrong  
+
+[2m 25s (300 60%) 1.6293]
+Whell mind home propotet to stocks of their country
+more not store difficutional 'kinds on from man's  
+
+[3m 14s (400 80%) 1.5707]
+Wht humanian confinishes up hours parent ring to state
+solical this,' with him user editor insults eve 
+
+[4m 3s (500 100%) 1.5400]
+Wh union finst day-kword in time chips convelled to despired with operator thaunce daughtered takes in 
+
+Saving...
+Saved as models/lstm_256_1_0.01.pt

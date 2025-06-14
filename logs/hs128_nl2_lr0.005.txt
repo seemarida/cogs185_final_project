@@ -1,0 +1,22 @@
+Training for 500 epochs...
+[0m 51s (100 20%) 2.4002]
+Whe meal sacqor stche rirelpated tarstooug wheas sek tinintars le on onpor artiep ca nhe 5 ponges wrow 
+
+[1m 43s (200 40%) 2.1679]
+Whe of to seman stamer goes in faticreas
+rup a to on dugher of oft anto of inerer elling hie suppent o 
+
+[2m 36s (300 60%) 2.0279]
+Whergo friens of the struvars abouns sorky and paction's ratle of wusle to stage to cad west aripare i 
+
+[3m 27s (400 80%) 1.9211]
+Whing deerected in redllared enerstress viceless after jose
+hasshes report: area declarter of perentic 
+
+[4m 30s (500 100%) 1.8638]
+Wheld 'there joit droot
+of jear
+into ennows of liden find immet clintile going to aich murse find agat 
+
+Saving...
+Saved as models/lstm_128_2_0.005.pt

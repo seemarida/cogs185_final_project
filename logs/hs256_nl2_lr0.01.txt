@@ -1,0 +1,22 @@
+Training for 500 epochs...
+[1m 32s (100 20%) 2.5162]
+Wher pcind lesin lestermerlhites in jons cod wyloring ryodes
+ruvink ato one who ninto ralge nathidinne 
+
+[3m 3s (200 40%) 2.2891]
+Whed presand reporsy fing yu caly canger
+pysing chiple crautin on santhe darn ok
+ixer nawasimip ota cr 
+
+[4m 39s (300 60%) 2.1459]
+Whar in the to to gecnely wone to to plasting ston of abell of rethit at bor-veidd seot crame want sen 
+
+[6m 15s (400 80%) 2.0228]
+Wheroo gill nest har sking weverythen, trows
+urence comment sibel hange leason point explary 'mall pas 
+
+[7m 51s (500 100%) 1.9134]
+Whe cleamment actendens at on alldronds can contay to housichir grearman finds she's over k. swoal pop 
+
+Saving...
+Saved as models/lstm_256_2_0.01.pt

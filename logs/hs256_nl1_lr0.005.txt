@@ -1,0 +1,26 @@
+Training for 500 epochs...
+[0m 48s (100 20%) 1.9487]
+Whge coller show
+cours hight reveintine
+blare of dester hones courting own with repicken new thain cal 
+
+[1m 38s (200 40%) 1.7589]
+Whall decide what of his brin
+by states again to human not on kitced no droat have in begin to finds i 
+
+[4m 49s (300 60%) 1.6650]
+Who again school match costens
+trugging tenging by phormant to americans wrife
+assay light
+sole at som 
+
+[5m 38s (400 80%) 1.6028]
+Whear for good scited of enjoyon sheing their at state actually content for earl how officis sexican a 
+
+[6m 27s (500 100%) 1.5811]
+Whour way in choces football compiel
+fread in passing out of anducation
+thing to confirms and to his c 
+
+Saving...
+Saved as models/lstm_256_1_0.005.pt

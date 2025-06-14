@@ -1,0 +1,20 @@
+Training for 500 epochs...
+[1m 30s (100 20%) 2.0570]
+Whour
+spece for of presing of to
+man hope threat of war sbilled parial renacknon writlacoly fatcond ch 
+
+[3m 2s (200 40%) 1.7582]
+Whiory of squelless from esconders of murion's 'up peartuly first syrage wants to be chrom eat can't j 
+
+[4m 33s (300 60%) 1.6606]
+Whd to destraying insultion in cooker beer of interesting 20-year of train of him for surgers seeking  
+
+[6m 4s (400 80%) 1.6003]
+Wh jene-eye of ills little nothing duying to but after social employee waiting says school,man attadia 
+
+[7m 35s (500 100%) 1.5798]
+Wh couples now announces planet accidentally sewes airport after guy chots disgusting to defensed stru 
+
+Saving...
+Saved as models/lstm_256_2_0.005.pt

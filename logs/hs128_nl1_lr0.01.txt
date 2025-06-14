@@ -1,0 +1,22 @@
+Training for 500 epochs...
+[0m 31s (100 20%) 2.0137]
+Whers
+taz disson on to 5 rits of it to appomel complething wends avicats of dopsing deation exleags ma 
+
+[1m 2s (200 40%) 1.8777]
+Whouy boiss to staring to entire was ficks not american warners as in presissunas'
+artive and a minati 
+
+[1m 33s (300 60%) 1.7510]
+Whear she cheed in bill posentions deent rity
+souding cased
+highing there gamping can passening for sh 
+
+[2m 3s (400 80%) 1.7309]
+Who about unable host of compender departmes warn out middle before dream of in the seezes op by recks 
+
+[2m 34s (500 100%) 1.6952]
+Whisched majority of man kergens direction a bands suagos legated to offic prisomatals' crothers point 
+
+Saving...
+Saved as models/lstm_128_1_0.01.pt

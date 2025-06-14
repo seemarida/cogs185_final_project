@@ -1,0 +1,20 @@
+Training for 500 epochs...
+[0m 51s (100 20%) 2.2634]
+Whant homore oden hard buet
+mores wowe wounsen lathe thearle fhone at engting on faysare inarise oud c 
+
+[1m 41s (200 40%) 2.0004]
+Whed conde are debusaded chrom new she doars to same from commusadingos distill insnade fors 29 the fo 
+
+[2m 32s (300 60%) 1.8711]
+Wh banner to knist of man, to startally surm dingle of shot foring womentally of pay toging presain at 
+
+[3m 23s (400 80%) 1.7927]
+Whin havoring scientiskect to spite feating woman educes courting in jobing 'the weater ask to dea goo 
+
+[4m 14s (500 100%) 1.7278]
+Wheans by costarted to be pant of asks flit
+friend cools proader seech to hurger trump cyclicled place 
+
+Saving...
+Saved as models/lstm_128_2_0.01.pt
